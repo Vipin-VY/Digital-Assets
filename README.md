@@ -72,22 +72,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]<!--(https://example.com) -->
+[![Product Name Screen Shot][product-screenshot]](#)<!--(https://example.com) -->
 
 Opend DMP - Partner Management System is a web based application. 
 It has multiple roles for access control. 
 It uses Google Bucket for it's email templates to give editors a next level of flexiblity.
 
 <b>Modules :-</b>
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* User Management - Add/Edit users, along with role assignment
+* Partners Management - Add/Edit partners details along with configration related details.
+* Partners Workflow - A complete guide to keep a watch on status of every step/workflow
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
+### Technologies
 
 The application developed with following Frameworks/technologies.
 * [Bootstrap - Vue](https://bootstrap-vue.org/docs/components)
@@ -99,16 +96,32 @@ The application developed with following Frameworks/technologies.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running at your end please follow these simple steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+* Visual Studio Code - 
+  ```sh
+  https://code.visualstudio.com/download
+  ```
+* Docker - Windows
+  ```sh
+  https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+  ```
+* GitHub - Windows
+  ```sh
+  https://desktop.github.com/
+  ```  
 * npm
   ```sh
   npm install npm@latest -g
   ```
+* pip
+  ```sh
+  pip install
+  ```
+
 
 ### Installation
 
