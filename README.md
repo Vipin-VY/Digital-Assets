@@ -180,8 +180,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Chris Teuschler - [@your_twitter](https://www.linkedin.com/in/chris-teuschler-1987a9114) - cteuschler@corbus.com
-Betty Hakes - [@your_twitter](https://www.linkedin.com/in/bettyhakes) - bhakes@corbus.com
+Chris Teuschler - [@linkedin](https://www.linkedin.com/in/chris-teuschler-1987a9114) - cteuschler@corbus.com <br/>
+Betty Hakes - [@linkedin](https://www.linkedin.com/in/bettyhakes) - bhakes@corbus.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
