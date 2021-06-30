@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="http://www.corbus.com/">
     <img src="read_me_digital_assets/Corbus-Logo.png" alt="Corbus - Partner Management" width="35%" height="35%">
   </a>
 
@@ -72,11 +72,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]<!--(https://example.com) -->
 
 Opend DMP - Partner Management System is a web based application. 
-Application has multiple roles for its access control. 
-Application uses Google Bucket for it's email templates to give editors next level of flexiblity to its editors.
+It has multiple roles for access control. 
+It uses Google Bucket for it's email templates to give editors a next level of flexiblity.
 
 <b>Modules :-</b>
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -89,10 +89,10 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+The application developed with following Frameworks/technologies.
+* [Bootstrap - Vue](https://bootstrap-vue.org/docs/components)
+* [Vue.js](https://vuejs.org/)
+* [Python-Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 
 
