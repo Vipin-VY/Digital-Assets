@@ -86,7 +86,7 @@ It uses Google Bucket for it's email templates to give editors a next level of f
 
 ### Technologies
 
-The application developed with following Frameworks/technologies.
+The application developed with following frameworks/technologies.
 * [Bootstrap - Vue](https://bootstrap-vue.org/docs/components)
 * [Vue.js](https://vuejs.org/)
 * [Python-Flask](https://flask.palletsprojects.com/en/2.0.x/)
@@ -180,26 +180,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+, Chris <teuschler.c@pg.com>
+Chris Teuschler - [@your_twitter](https://www.linkedin.com/in/chris-teuschler-1987a9114) - cteuschler@corbus.com
+Betty Hakes - [@your_twitter](https://www.linkedin.com/in/bettyhakes) - bhakes@corbus.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
 
 
 
