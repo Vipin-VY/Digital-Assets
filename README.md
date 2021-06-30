@@ -26,7 +26,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<p align="left">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="read_me_digital_assets/Corbus-Logo.png" alt="Corbus - Partner Management" width="30%" height="30%">
   </a>
