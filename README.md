@@ -180,7 +180,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-, Chris <teuschler.c@pg.com>
 Chris Teuschler - [@your_twitter](https://www.linkedin.com/in/chris-teuschler-1987a9114) - cteuschler@corbus.com
 Betty Hakes - [@your_twitter](https://www.linkedin.com/in/bettyhakes) - bhakes@corbus.com
 
