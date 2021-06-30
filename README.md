@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Corbus - Partner Management" width="50%" height="50%">
+    <img src="images/Corbus-Logo.png" alt="Corbus - Partner Management" width="50%" height="50%">
   </a>
 
   <h3 align="center">Partner Management System</h3>
