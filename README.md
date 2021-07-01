@@ -104,7 +104,7 @@ To get a local copy up and running at your end please follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* Visual Studio Code - 
+* Visual Studio Code
   ```sh
   https://code.visualstudio.com/download
   ```
@@ -116,6 +116,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   https://desktop.github.com/
   ```  
+* NodeJS 
+	```sh
+	https://nodejs.org/en/download/  
+	```
 * npm
   ```sh
   npm install npm@latest -g
@@ -128,18 +132,24 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo from git-hub to your local drive
+	```sh
+	https://github.com/CorbusCoration/PartnerManagementSystem
+	```
+	```sh
+	git clone https://github.com/CorbusCoration/PartnerManagementSystem.git
+	```
+2. Make sure docker has been started. If docker is started but running but icon is greyed-out then run below command in powershell.
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   & $Env:ProgramFiles\Docker\Docker\DockerCli.exe -SwitchDaemon
    ```
-3. Install NPM packages
+2. Install NPM packages - UI
    ```sh
    npm install
    ```
-4. Enter your API in 'config.js'
+4. Install all dependencies - Python/Flask
    ```JS
-   const API_KEY = 'ENTER YOUR API';
+   pip install -r requirements.txt -v
    ```
 
 
