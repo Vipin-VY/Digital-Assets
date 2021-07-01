@@ -51,7 +51,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#technologies">Technologies</a></li>
       </ul>
     </li>
     <li>
@@ -61,12 +61,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <!--<li><a href="#usage">Usage</a></li>-->
+    <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <!--<li><a href="#license">License</a></li>-->
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <!--<li><a href="#acknowledgements">Acknowledgements</a></li>-->
   </ol>
 </details>
 
@@ -173,7 +173,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-To contribute follow below steps(Git-Hub best practice). Any contributions you make are **greatly appreciated**.
+To contribute, follow below steps(Git-Hub best practice). Any contributions you make are **greatly appreciated**.
 
 1. Fetch latest version from master/main
 2. Create your Feature Branch ('git checkout -b feature-Name')
@@ -232,5 +232,5 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: #
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: #
+[linkedin-url]: https://in.linkedin.com/company/corbus-llc
 [product-screenshot]: read_me_digital_assets/DMP-Home.png
