@@ -105,42 +105,42 @@ To get a local copy up and running at your end please follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * Visual Studio Code - 
-  '''sh
+  ```sh
   https://code.visualstudio.com/download
-  '''
+  ```
 * Docker - Windows
-  '''sh
+  ```sh
   https://hub.docker.com/editions/community/docker-ce-desktop-windows/
-  '''
+  ```
 * GitHub - Windows
-  '''sh
+  ```sh
   https://desktop.github.com/
-  '''  
+  ```  
 * npm
-  '''sh
+  ```sh
   npm install npm@latest -g
-  '''
+  ```
 * pip
-  '''sh
+  ```sh
   pip install
-  '''
+  ```
 
 
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
-   '''sh
+   ```sh
    git clone https://github.com/your_username_/Project-Name.git
-   '''
+   ```
 3. Install NPM packages
-   '''sh
+   ```sh
    npm install
-   '''
+   ```
 4. Enter your API in 'config.js'
-   '''JS
+   ```JS
    const API_KEY = 'ENTER YOUR API';
-   '''
+   ```
 
 
 
