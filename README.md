@@ -185,7 +185,7 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 
 ## Application Flow
 <p align="center">
-	<img src="read_me_digital_assets/Open-DMP-Partner-Management.png" alt="Corbus - Partner Management" width="120%" height="120%">
+	<img src="read_me_digital_assets/Open-DMP-Partner-Management.png" alt="Corbus - Partner Management" width="140%" height="120%">
 </p>
 
 <!-- LICENSE -->
