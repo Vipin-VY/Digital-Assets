@@ -171,7 +171,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribution
 
 To contribute, follow below steps(Git-Hub best practice). Any contributions you make are **greatly appreciated**.
 
@@ -183,6 +183,10 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 6. Assign pull request for Review and merge
 
 
+## Application Flow
+<p align="center">
+	<img src="read_me_digital_assets/Open-DMP-Partner-Management.png" alt="Corbus - Partner Management" width="40%" height="40%">
+</p>
 
 <!-- LICENSE -->
 ## License
