@@ -204,7 +204,7 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 		<td width="35%">
 			<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram">
 		</td>
-		<td>
+		<td valign="top">
 			1. apollopartnermanagement-d1a5e0658092.json (Google API Token file)
 			2. app/bqcredential/apollopartnermanagement-d1a5e0658092.json (Google client secret key)
 			3. main/controller
