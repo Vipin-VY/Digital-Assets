@@ -205,8 +205,8 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 			<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram">
 		</td>
 		<td valign="top">
-			1. <b>apollopartnermanagement-d1a5e0658092.json</b> - Google API Token file<br /><br />
-			2. <b>aapp/bqcredential/apollopartnermanagement-d1a5e0658092.json</b> - Google client secret key<br /><br />
+			1. <b>apollopartnermanagement-d1a5e0658092.json</b> - Google API Token file<br />
+			2. <b>aapp/bqcredential/apollopartnermanagement-d1a5e0658092.json</b> - Google client secret key<br />
 			3. <b>main/controller</b><br />
 				<ul>
 					<li>email_controller.py - This controller is used as a wrapper class for sending email notifications</li>
@@ -223,7 +223,7 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 					<li>user_service.py - This contains users's related services</li>
 					<li>utils_service.py - This contains reusable methods.</li>
 				</ul>	
-			5. <b>amain/config.py</b> - This contains all configurable values/settings.<br /><br />
+			5. <b>amain/config.py</b> - This contains all configurable values/settings.<br />
 			6. <b>adocumentsHandling.py</b> - This contains all google bucket related methods.
 		</td>
 	</tr>
