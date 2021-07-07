@@ -202,7 +202,7 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 <table>
 	<tr>
 		<td width="35%" valign="top">
-			<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram">
+			<img src="read_me_digital_assets/pmsbq_api.png" alt="Python Code">
 		</td>
 		<td valign="top">
 			1. <b>apollopartnermanagement-d1a5e0658092.json</b> - Google API Token file<br />
@@ -229,7 +229,36 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 	</tr>
 </table>
 
-
+* pmsbq_api - Important Files
+<table>
+	<tr>
+		<td width="35%" valign="top">
+			<img src="read_me_digital_assets/vuecli_ui_update.png" alt="Vue.JS - Views">
+		</td>
+		<td valign="top">
+			1. <b>apollopartnermanagement-d1a5e0658092.json</b> - Google API Token file<br />
+			2. <b>aapp/bqcredential/apollopartnermanagement-d1a5e0658092.json</b> - Google client secret key<br />
+			3. <b>main/controller</b><br />
+				<ul>
+					<li>email_controller.py - This controller is used as a wrapper class for sending email notifications</li>
+					<li>login_controller.py - This controller handles all login related actions</li>
+					<li>partner_controller.py - This controller is used to handle partner's related data</li>
+					<li>user_controller.py - This is for managing users</li>
+					<li>utils_controller.py - This contains some reusable actions those are being used in another controllers.</li>
+				</ul>
+			4. <b>main/service</b><br />
+				<ul>
+					<li>auth_service.py - This contains authentication related services</li>
+					<li>import_service.py - This is used to import partner's information</li>
+					<li>partner_service.py - This contains partner's related services</li>
+					<li>user_service.py - This contains users's related services</li>
+					<li>utils_service.py - This contains reusable methods.</li>
+				</ul>	
+			5. <b>amain/config.py</b> - This contains all configurable values/settings.<br />
+			6. <b>adocumentsHandling.py</b> - This contains all google bucket related methods.
+		</td>
+	</tr>
+</table>
 <p align="center">
 	<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram" width="100%" height="100%">
 </p>
