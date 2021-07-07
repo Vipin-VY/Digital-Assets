@@ -197,8 +197,34 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 </p>
 
 ## Solution
+
+* pmsbq_api - Important Files
+<table>
+	<tr>
+		<td width="20%">
+			<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram" width="100%" height="100%">
+		</td>
+		<td>
+			1. apollopartnermanagement-d1a5e0658092.json (Google API Token file)
+			2. app/bqcredential/apollopartnermanagement-d1a5e0658092.json (Google client secret key)
+			3. main/controller
+				<ul>
+					<li>
+						email_controller.py - This controller is used as a wrapper class for sending email notifications
+						login_controller.py - This controller handles all login related actions
+						partner_controller.py - This controller is used to handle partner's related data
+						user_controller.py - This is for managing users
+						utils_controller.py - This contains some reusable actions those are being used in another controllers.
+					</li>
+				</ul>
+		</td>
+	</tr>
+</table>
+
+
+
 <p align="center">
-	<img src="read_me_digital_assets/High-Level-Architecture-Diagram.png" alt="High Level Architecture Diagram" width="100%" height="100%">
+	<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram" width="100%" height="100%">
 </p>
 
 <!-- LICENSE -->
