@@ -198,7 +198,7 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 
 ## Solution
 
-* pmsbq_api - Important Files
+* pmsbq_api(Python) - Important Files
 <table>
 	<tr>
 		<td width="35%" valign="top">
@@ -229,7 +229,7 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 	</tr>
 </table>
 
-* pmsbq_api - Important Files
+* vuecli_ui_update(Vue.JS) - Important Files
 <table>
 	<tr>
 		<td width="35%" valign="top">
