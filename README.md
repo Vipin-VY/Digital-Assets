@@ -59,11 +59,15 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+		
+		<li><a href="#application-flow">Application Flow</a></li>
+		<li><a href="#high-level-architecture">High Level Architecture</a></li>
+		<li><a href="#solution">Solution</a></li>
       </ul>
     </li>
     <!--<li><a href="#usage">Usage</a></li>-->
     <!--<li><a href="#roadmap">Roadmap</a></li>-->
-    <li><a href="#contribution">Contribution</a></li>
+    <li><a href="#contribution">Contribution</a></li> 
     <!--<li><a href="#license">License</a></li>-->
     <li><a href="#contact">Contact</a></li>
     <!--<li><a href="#acknowledgements">Acknowledgements</a></li>-->
@@ -189,6 +193,11 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 </p>
 
 ## High Level Architecture
+<p align="center">
+	<img src="read_me_digital_assets/High-Level-Architecture-Diagram.png" alt="High Level Architecture Diagram" width="100%" height="100%">
+</p>
+
+## Solution
 <p align="center">
 	<img src="read_me_digital_assets/High-Level-Architecture-Diagram.png" alt="High Level Architecture Diagram" width="100%" height="100%">
 </p>
