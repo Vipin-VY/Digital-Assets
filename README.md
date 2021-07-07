@@ -202,7 +202,7 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 <table>
 	<tr>
 		<td width="20%">
-			<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram" width="100%" height="100%">
+			<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram">
 		</td>
 		<td>
 			1. apollopartnermanagement-d1a5e0658092.json (Google API Token file)
