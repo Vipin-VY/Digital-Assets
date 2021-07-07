@@ -215,6 +215,17 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 					<li>user_controller.py - This is for managing users</li>
 					<li>utils_controller.py - This contains some reusable actions those are being used in another controllers.</li>
 				</ul>
+			4. <b>main/service</b><br />
+				<ul>
+					<li>auth_service.py - This contains authentication related services</li>
+					<li>import_service.py - This is used to import partner's information</li>
+					<li>partner_service.py - This contains partner's related services</li>
+					<li>user_service.py - This contains users's related services</li>
+					<li>utils_service.py - This contains reusable methods.</li>
+				</ul>	
+			5. main/config.py - This contains all configurable values/settings.
+			6. documentsHandling.py - This contains all google bucket related methods.
+			
 		</td>
 	</tr>
 </table>
