@@ -201,8 +201,8 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 * pmsbq_api - Important Files
 <table>
 	<tr>
-		<td width="20%">
-			<img style="-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="read_me_digital_assets/pmsbq_api.png?raw=true" alt="High Level Architecture Diagram">
+		<td width="35%">
+			<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram">
 		</td>
 		<td>
 			1. apollopartnermanagement-d1a5e0658092.json (Google API Token file)
