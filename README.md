@@ -59,7 +59,6 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-		
 		<li><a href="#application-flow">Application Flow</a></li>
 		<li><a href="#high-level-architecture">High Level Architecture</a></li>
 		<li><a href="#solution">Solution</a></li>
@@ -67,7 +66,7 @@
     </li>
     <!--<li><a href="#usage">Usage</a></li>-->
     <!--<li><a href="#roadmap">Roadmap</a></li>-->
-    <li><a href="#contribution">Contribution</a></li> 
+    <li><a href="#contribution">Contribution</a></li>
     <!--<li><a href="#license">License</a></li>-->
     <li><a href="#contact">Contact</a></li>
     <!--<li><a href="#acknowledgements">Acknowledgements</a></li>-->
