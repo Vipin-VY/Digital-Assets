@@ -209,13 +209,11 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 			2. app/bqcredential/apollopartnermanagement-d1a5e0658092.json (Google client secret key)
 			3. main/controller
 				<ul>
-					<li>
-						email_controller.py - This controller is used as a wrapper class for sending email notifications
-						login_controller.py - This controller handles all login related actions
-						partner_controller.py - This controller is used to handle partner's related data
-						user_controller.py - This is for managing users
-						utils_controller.py - This contains some reusable actions those are being used in another controllers.
-					</li>
+					<li>email_controller.py - This controller is used as a wrapper class for sending email notifications</li>
+					<li>login_controller.py - This controller handles all login related actions</li>
+					<li>partner_controller.py - This controller is used to handle partner's related data</li>
+					<li>user_controller.py - This is for managing users</li>
+					<li>utils_controller.py - This contains some reusable actions those are being used in another controllers.</li>
 				</ul>
 		</td>
 	</tr>
