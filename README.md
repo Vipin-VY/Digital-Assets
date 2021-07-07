@@ -209,18 +209,18 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 			2. <b>aapp/bqcredential/apollopartnermanagement-d1a5e0658092.json</b> - Google client secret key<br />
 			3. <b>main/controller</b><br />
 				<ul>
-					<li>email_controller.py - This controller is used as a wrapper class for sending email notifications</li>
-					<li>login_controller.py - This controller handles all login related actions</li>
-					<li>partner_controller.py - This controller is used to handle partner's related data</li>
-					<li>user_controller.py - This is for managing users</li>
+					<li>email_controller.py - This controller is used as a wrapper class for sending email notifications.</li>
+					<li>login_controller.py - This controller handles all login related actions.</li>
+					<li>partner_controller.py - This controller is used to handle partner's related data.</li>
+					<li>user_controller.py - This is for managing users.</li>
 					<li>utils_controller.py - This contains some reusable actions those are being used in another controllers.</li>
 				</ul>
 			4. <b>main/service</b><br />
 				<ul>
-					<li>auth_service.py - This contains authentication related services</li>
-					<li>import_service.py - This is used to import partner's information</li>
-					<li>partner_service.py - This contains partner's related services</li>
-					<li>user_service.py - This contains users's related services</li>
+					<li>auth_service.py - This contains authentication related services.</li>
+					<li>import_service.py - This is used to import partner's information.</li>
+					<li>partner_service.py - This contains partner's related services.</li>
+					<li>user_service.py - This contains users's related services.</li>
 					<li>utils_service.py - This contains reusable methods.</li>
 				</ul>	
 			5. <b>amain/config.py</b> - This contains all configurable values/settings.<br />
@@ -236,32 +236,25 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 			<img src="read_me_digital_assets/vuecli_ui_update.png" alt="Vue.JS - Views">
 		</td>
 		<td valign="top">
-			1. <b>apollopartnermanagement-d1a5e0658092.json</b> - Google API Token file<br />
-			2. <b>aapp/bqcredential/apollopartnermanagement-d1a5e0658092.json</b> - Google client secret key<br />
-			3. <b>main/controller</b><br />
+			1. <b>src/partner</b><br />
 				<ul>
-					<li>email_controller.py - This controller is used as a wrapper class for sending email notifications</li>
-					<li>login_controller.py - This controller handles all login related actions</li>
-					<li>partner_controller.py - This controller is used to handle partner's related data</li>
-					<li>user_controller.py - This is for managing users</li>
-					<li>utils_controller.py - This contains some reusable actions those are being used in another controllers.</li>
+					<li>PartnerForm.vue - This view is used to edit partner's details.</li>
+					<li>PartnerFormAdd.vue - This view is used to add partner's details.</li>
+					<li>PartnerInfoView.vue - This view is used to view partner's details in read only view.</li>
+					<li>PartnerList.vue - This view is used to show list of available partner basis on provided filter criteria.</li>
+					<li>PartnerNextStepsList.vue - This view is used to provide status of each partner basis on provided filter criteria.</li>
 				</ul>
-			4. <b>main/service</b><br />
+			2. <b>src/reusable</b><br />
 				<ul>
-					<li>auth_service.py - This contains authentication related services</li>
-					<li>import_service.py - This is used to import partner's information</li>
-					<li>partner_service.py - This contains partner's related services</li>
-					<li>user_service.py - This contains users's related services</li>
-					<li>utils_service.py - This contains reusable methods.</li>
+					<li>alertBox.vue - This is used for showing message to user.</li>
+					<li>configsUpdateFormModal.vue - This is used for updating config.</li>
+					<li>countriesUpdateFormModal.vue - This view is used to update countries.</li>
+					<li>nextStepFormModal.vue - This view is used to handle next step of partner.</li>
+					<li>optionsUpdateFormModal.vue - This view is used for updating options.</li>
 				</ul>	
-			5. <b>amain/config.py</b> - This contains all configurable values/settings.<br />
-			6. <b>adocumentsHandling.py</b> - This contains all google bucket related methods.
 		</td>
 	</tr>
 </table>
-<p align="center">
-	<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram" width="100%" height="100%">
-</p>
 
 <!-- LICENSE -->
 ## License
