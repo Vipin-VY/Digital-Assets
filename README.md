@@ -230,7 +230,6 @@ To contribute, follow below steps(Git-Hub best practice). Any contributions you 
 </table>
 
 
-
 <p align="center">
 	<img src="read_me_digital_assets/pmsbq_api.png" alt="High Level Architecture Diagram" width="100%" height="100%">
 </p>
